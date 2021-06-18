@@ -1,4 +1,4 @@
-# C-
+# C#聊天室
 b站视频地址https://www.bilibili.com/video/BV1FJ411v7hv?p=9&t=2
 简单的C#聊天室
 用vs2017编写
